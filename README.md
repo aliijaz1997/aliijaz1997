@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliijaz1997" alt="aliijaz1997" /></a> </p>
 
-- 🔭 I’m currently working on [masteryprep.com](https://app.masteryprep.com/)
+- 🔭 I’m currently working on [masteryprep.com](http://mastrryprep.com/)
 
 - 🌱 I’m currently learning **Blockchain, Smart Contract and Metaverse**
 
