@@ -9,7 +9,7 @@ I'm a passionate and highly skilled full-stack software developer with a strong 
 Here are some of the technologies and skills I specialize in:
 
 - **Front-end**: React, JavaScript, TypeScript
-- **Back-end**: Express.js, Nest.js
+- **Back-end**: .Net, Express.js, Nest.js
 - **Database**: MySQL, MongoDB, PostgreSQL
 - **Version Control**: Git
 - **Deployment**: Docker, AWS, Heroku
